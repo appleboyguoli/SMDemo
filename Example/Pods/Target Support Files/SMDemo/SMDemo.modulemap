@@ -1,0 +1,6 @@
+framework module SMDemo {
+  umbrella header "SMDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
